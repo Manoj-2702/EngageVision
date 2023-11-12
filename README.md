@@ -50,6 +50,13 @@ Adjustable parameters are available in the script for customization:
 
 The script provides real-time visual feedback on engagement and gaze direction. It also generates a summary of engagement statements and percentages after execution.
 
+## Sample Result
+
+![image](https://github.com/Manoj-2702/EyeTracking/assets/103581128/7ce34aa0-d511-41a9-95b3-1efb66082e2b)
+
+https://github.com/Manoj-2702/EyeTracking/assets/103581128/c879d00f-0dc8-4c8b-b818-1d50d2f15443
+
+
 ## License
 
 This project is licensed under the <b>MIT License</b> - see the LICENSE file for details.
