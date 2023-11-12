@@ -306,7 +306,7 @@ while cap.isOpened():
         # cv2.putText(img, f"Gaze Direction: {gaze_direction}", (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2, cv2.LINE_AA)
         cv2.putText(img, text1, (60, 60), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2, cv2.LINE_AA)
         cv2.putText(img, text, (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2, cv2.LINE_AA)
-    cv2.imshow('Head Pose Estimation', img)
+    cv2.imshow('Engagement Analysis', img)
 
     if cv2.waitKey(5) & 0xFF == ord('q'):
         break
