@@ -1,4 +1,11 @@
-# Engagement Analysis with Head Pose Estimation
+<h1 align="center"> EngageVision: AI-Powered Attention</h1>
+
+<p align="center">
+   <img src="https://github.com/Manoj-2702/EngageVision/assets/103581128/9c7affd9-7880-4383-972e-977df9bb4555" alt="logo" />
+</p>
+
+
+## Engagement Analysis with Head Pose Estimation
 
 Engagement Analysis with Head Pose Estimation is a computer vision project that utilizes Mediapipe library for facial landmarks detection, OpenCV for computer vision tasks, and NumPy/Pandas for data manipulation. It estimates head pose and gaze direction to determine whether the user is engaged or not.
 
